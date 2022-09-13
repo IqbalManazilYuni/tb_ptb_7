@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">App</string>
+    <string name="email">Email</string>
+    <string name="v_1_0">v 1.0</string>
+    <string name="login">Login</string>
+    <string name="sistem_informasi_kp_unand">Sistem Informasi KP Unand</string>
+    <string name="password">Password</string>
+    <string name="email_adress">Email Adress</string>
+    <string name="todo">TODO</string>
 </resources>

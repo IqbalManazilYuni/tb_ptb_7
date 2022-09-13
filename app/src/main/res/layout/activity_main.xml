@@ -74,9 +74,11 @@
         android:backgroundTint="#FFEB3B"
         android:backgroundTintMode="src_in"
         android:text="@string/login"
+        android:textColor="#33691E"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword" />
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword"
+        tools:ignore="TextContrastCheck" />
 
     <TextView
         android:id="@+id/textView3"
@@ -84,7 +86,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="44dp"
         android:text="@string/v_1_0"
-        android:textColor="#FAF8F8"
+        android:textColor="#FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
